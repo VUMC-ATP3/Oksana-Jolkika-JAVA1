@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c385a8fc-f3a9-4c9c-a836-1cc69278495f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/classroomTwo/Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/classroomTwo/PracticalsTaskTwo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,21 +33,60 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/User/Desktop/JavaLekcija4/JavaLekcija4/Oksana-Jolkika-JAVA1",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Desktop/JavaLekcija4/JavaLekcija4/Oksana-Jolkika-JAVA1&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.MainTwo">
+}</component>
+  <component name="RunManager" selected="Application.PracticalsTaskTwo">
+    <configuration name="HomeWork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.HomeWork" />
+      <module name="Oksana-Jolkika-JAVA1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="classroom.MainTwo" />
       <module name="Oksana-Jolkika-JAVA1" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="classroom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classroomTwo.Method" />
+      <module name="Oksana-Jolkika-JAVA1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classroomTwo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PracticalsTaskTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classroomTwo.PracticalsTaskTwo" />
+      <module name="Oksana-Jolkika-JAVA1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classroomTwo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,6 +103,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PracticalsTaskTwo" />
+        <item itemvalue="Application.Method" />
+        <item itemvalue="Application.HomeWork" />
         <item itemvalue="Application.MainTwo" />
         <item itemvalue="Application.classroom.Main" />
       </list>
@@ -106,6 +149,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/classroomTwo/Method.java</url>
+          <line>5</line>
+          <properties class="classroomTwo.Method" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
