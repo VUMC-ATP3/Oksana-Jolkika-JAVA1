@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c385a8fc-f3a9-4c9c-a836-1cc69278495f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/classroomTwo/Method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/classroomTwo/PracticalsTaskTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/classroomThree/Masivi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/classroomThree/Metodes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/classroomTwo/PracticalsTaskTwo.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,13 +42,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PracticalsTaskTwo">
-    <configuration name="HomeWork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.HomeWork" />
+  <component name="RunManager" selected="Application.Masivi">
+    <configuration name="Masivi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classroomThree.Masivi" />
       <module name="Oksana-Jolkika-JAVA1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework.*" />
+          <option name="PATTERN" value="classroomThree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -55,12 +56,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classroom.MainTwo" />
+    <configuration name="Masīvi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classroomThree.Masīvi" />
       <module name="Oksana-Jolkika-JAVA1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="classroom.*" />
+          <option name="PATTERN" value="classroomThree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,6 +82,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Metodes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classroomThree.Metodes" />
+      <module name="Oksana-Jolkika-JAVA1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classroomThree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PracticalsTaskTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="classroomTwo.PracticalsTaskTwo" />
       <module name="Oksana-Jolkika-JAVA1" />
@@ -94,20 +108,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="classroom.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classroom.Main" />
-      <module name="Oksana-Jolkika-JAVA1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Masivi" />
+        <item itemvalue="Application.Masīvi" />
+        <item itemvalue="Application.Metodes" />
         <item itemvalue="Application.PracticalsTaskTwo" />
         <item itemvalue="Application.Method" />
-        <item itemvalue="Application.HomeWork" />
-        <item itemvalue="Application.MainTwo" />
-        <item itemvalue="Application.classroom.Main" />
       </list>
     </recent_temporary>
   </component>
